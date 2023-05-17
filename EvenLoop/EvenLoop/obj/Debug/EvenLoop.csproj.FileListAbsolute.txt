@@ -1,0 +1,8 @@
+C:\Pisyst\Projects\EvenLoop\EvenLoop\bin\Debug\EvenLoop.exe.config
+C:\Pisyst\Projects\EvenLoop\EvenLoop\bin\Debug\EvenLoop.exe
+C:\Pisyst\Projects\EvenLoop\EvenLoop\bin\Debug\EvenLoop.pdb
+C:\Pisyst\Projects\EvenLoop\EvenLoop\obj\Debug\EvenLoop.csproj.AssemblyReference.cache
+C:\Pisyst\Projects\EvenLoop\EvenLoop\obj\Debug\EvenLoop.csproj.SuggestedBindingRedirects.cache
+C:\Pisyst\Projects\EvenLoop\EvenLoop\obj\Debug\EvenLoop.csproj.CoreCompileInputs.cache
+C:\Pisyst\Projects\EvenLoop\EvenLoop\obj\Debug\EvenLoop.exe
+C:\Pisyst\Projects\EvenLoop\EvenLoop\obj\Debug\EvenLoop.pdb

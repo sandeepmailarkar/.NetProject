@@ -1,0 +1,3 @@
+C:\Pisyst\Projects\Calc\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+C:\Pisyst\Projects\Calc\Calc\obj\Debug\Calc.csproj.SuggestedBindingRedirects.cache
+C:\Pisyst\Projects\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache

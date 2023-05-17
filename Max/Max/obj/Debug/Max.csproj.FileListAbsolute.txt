@@ -1,0 +1,8 @@
+C:\Pisyst\Projects\Max\Max\bin\Debug\Max.exe.config
+C:\Pisyst\Projects\Max\Max\bin\Debug\Max.exe
+C:\Pisyst\Projects\Max\Max\bin\Debug\Max.pdb
+C:\Pisyst\Projects\Max\Max\obj\Debug\Max.csproj.AssemblyReference.cache
+C:\Pisyst\Projects\Max\Max\obj\Debug\Max.csproj.SuggestedBindingRedirects.cache
+C:\Pisyst\Projects\Max\Max\obj\Debug\Max.csproj.CoreCompileInputs.cache
+C:\Pisyst\Projects\Max\Max\obj\Debug\Max.exe
+C:\Pisyst\Projects\Max\Max\obj\Debug\Max.pdb

@@ -1,0 +1,3 @@
+C:\Pisyst\Projects\PosNegProgram\PosNegProgram\obj\Debug\PosNegProgram.csproj.AssemblyReference.cache
+C:\Pisyst\Projects\PosNegProgram\PosNegProgram\obj\Debug\PosNegProgram.csproj.SuggestedBindingRedirects.cache
+C:\Pisyst\Projects\PosNegProgram\PosNegProgram\obj\Debug\PosNegProgram.csproj.CoreCompileInputs.cache
