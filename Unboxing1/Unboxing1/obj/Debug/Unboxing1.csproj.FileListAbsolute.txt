@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\Unboxing1\Unboxing1\bin\Debug\Unboxing1.exe.config
+C:\Users\sande\source\repos\Unboxing1\Unboxing1\bin\Debug\Unboxing1.exe
+C:\Users\sande\source\repos\Unboxing1\Unboxing1\bin\Debug\Unboxing1.pdb
+C:\Users\sande\source\repos\Unboxing1\Unboxing1\obj\Debug\Unboxing1.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\Unboxing1\Unboxing1\obj\Debug\Unboxing1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\Unboxing1\Unboxing1\obj\Debug\Unboxing1.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Unboxing1\Unboxing1\obj\Debug\Unboxing1.exe
+C:\Users\sande\source\repos\Unboxing1\Unboxing1\obj\Debug\Unboxing1.pdb
