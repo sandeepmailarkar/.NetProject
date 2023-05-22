@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\Abstract Class Car\Abstract Class Car\bin\Debug\Abstract Class Car.exe.config
+C:\Users\sande\source\repos\Abstract Class Car\Abstract Class Car\bin\Debug\Abstract Class Car.exe
+C:\Users\sande\source\repos\Abstract Class Car\Abstract Class Car\bin\Debug\Abstract Class Car.pdb
+C:\Users\sande\source\repos\Abstract Class Car\Abstract Class Car\obj\Debug\Abstract Class Car.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\Abstract Class Car\Abstract Class Car\obj\Debug\Abstract Class Car.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\Abstract Class Car\Abstract Class Car\obj\Debug\Abstract Class Car.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Abstract Class Car\Abstract Class Car\obj\Debug\Abstract Class Car.exe
+C:\Users\sande\source\repos\Abstract Class Car\Abstract Class Car\obj\Debug\Abstract Class Car.pdb
