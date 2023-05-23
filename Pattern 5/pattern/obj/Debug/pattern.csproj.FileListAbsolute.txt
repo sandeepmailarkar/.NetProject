@@ -1,0 +1,16 @@
+C:\Users\sande\source\repos\pattern\pattern\bin\Debug\pattern.exe.config
+C:\Users\sande\source\repos\pattern\pattern\bin\Debug\pattern.exe
+C:\Users\sande\source\repos\pattern\pattern\bin\Debug\pattern.pdb
+C:\Users\sande\source\repos\pattern\pattern\obj\Debug\pattern.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\pattern\pattern\obj\Debug\pattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\pattern\pattern\obj\Debug\pattern.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\pattern\pattern\obj\Debug\pattern.exe
+C:\Users\sande\source\repos\pattern\pattern\obj\Debug\pattern.pdb
+C:\Users\sande\source\repos\Pattern 5\pattern\bin\Debug\pattern.exe.config
+C:\Users\sande\source\repos\Pattern 5\pattern\bin\Debug\pattern.exe
+C:\Users\sande\source\repos\Pattern 5\pattern\bin\Debug\pattern.pdb
+C:\Users\sande\source\repos\Pattern 5\pattern\obj\Debug\pattern.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\Pattern 5\pattern\obj\Debug\pattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\Pattern 5\pattern\obj\Debug\pattern.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Pattern 5\pattern\obj\Debug\pattern.exe
+C:\Users\sande\source\repos\Pattern 5\pattern\obj\Debug\pattern.pdb
